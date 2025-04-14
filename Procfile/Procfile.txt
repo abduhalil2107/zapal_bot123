@@ -1,1 +1,1 @@
-worker: python kursdoshlar.py
+worker: python start command.py
